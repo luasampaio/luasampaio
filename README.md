@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Hi there 👋, my name is Luciana Sampaio
 
