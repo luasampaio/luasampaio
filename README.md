@@ -36,5 +36,5 @@ I am an Systems analysis and development, enthusiast for programming and learnin
 
 ---
 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/luasampaio/github-readme-stats)
 
