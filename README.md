@@ -29,9 +29,8 @@ I am an Systems analysis and development, enthusiast for programming and learnin
 
 
 
-
 ## GitHub Stats
-![Luciana Sampaio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luasampaio&show_icons=true&theme=dark)
+![Luciana Sampaio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luasampaio&show_icons=true&theme=radical)
 
 
 
@@ -41,6 +40,6 @@ I am an Systems analysis and development, enthusiast for programming and learnin
 
 
 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/luasampaio/github-readme-stats)
 
 
