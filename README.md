@@ -35,11 +35,9 @@ I am an Systems analysis and development, enthusiast for programming and learnin
 
 
 ---
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luasampaio&layout=donut)](https://github.com/luasampaio/github-readme-stats)
+### Skills 
+[![My Skills](https://skillicons.dev/icons?i=r,azure,devto,python,visualstudio,xd,mysql,sqlite)](https://skillicons.dev)
 
 
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/luasampaio/github-readme-stats)
 
 
