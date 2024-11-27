@@ -35,6 +35,7 @@ I am an Systems analysis and development, enthusiast for programming and learnin
 
 
 ---
+
 ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=r,azure,devto,python,visualstudio,xd,mysql,sqlite)](https://skillicons.dev)
 
