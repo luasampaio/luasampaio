@@ -19,7 +19,6 @@ I am an Systems analysis and development, enthusiast for programming and learnin
 
 
 
-
 ## Most Used Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luasampaio&layout=compact&theme=ocean_dark)
 
