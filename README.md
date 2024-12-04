@@ -5,7 +5,6 @@ I'm a data engineer
 I am an Systems analysis and development, enthusiast for programming and learning, always seeking more and more knowledge and practice 🚀
 
 
-
 ## Skills
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
