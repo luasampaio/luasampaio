@@ -16,7 +16,6 @@ I am an Systems analysis and development, enthusiast for programming and learnin
 ![Databricks](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Databricks](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-
 ---
 
 ## Most Used Languages
@@ -30,7 +29,6 @@ I am an Systems analysis and development, enthusiast for programming and learnin
 
 ## GitHub Stats
 ![Luciana Sampaio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luasampaio&show_icons=true&theme=radical)
-
 
 ---
 
