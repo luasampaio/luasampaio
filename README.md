@@ -19,7 +19,7 @@ I am an Systems analysis and development, enthusiast for programming and learnin
 ---
 
 ## Most Used Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luasampaio&layout=compact&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luasampaio&layout=compact&theme=codeSTACKr )
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-sampaio/)
@@ -28,7 +28,7 @@ I am an Systems analysis and development, enthusiast for programming and learnin
 
 
 ## GitHub Stats
-![Luciana Sampaio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luasampaio&show_icons=true&theme=radical)
+![Luciana Sampaio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luasampaio&show_icons=true&theme=codeSTACKr )
 
 ---
 
