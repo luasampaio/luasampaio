@@ -26,9 +26,9 @@ I am an Systems analysis and development, enthusiast for programming and learnin
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:luciana.sampaio84@gmail.com)
 
 
-
 ## GitHub Stats
-![Luciana Sampaio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luasampaio&show_icons=true&theme=material-cobalt )
+
+![Luciana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luasampaio&count_private=true&show_icons=true&theme=material-radical)
 
 ---
 
