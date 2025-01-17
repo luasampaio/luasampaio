@@ -28,7 +28,7 @@ I am an Systems analysis and development, enthusiast for programming and learnin
 
 ## GitHub Stats
 
-![Luciana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luasampaio&count_private=true&show_icons=true&theme=radical)
+![Luciana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luasampaio&count_private=true&show_icons=true&theme=dracula)
 
 ---
 
