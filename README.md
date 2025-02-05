@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Luciana Sampaio
+# Hi there 👋, my name is Luciana Sampaio Mayer
 
 I'm a data engineer
 
