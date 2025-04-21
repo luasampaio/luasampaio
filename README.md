@@ -22,14 +22,14 @@ I am an Systems analysis and development, enthusiast for programming and learnin
 
 
 ## Most Used Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luasampaio&layout=compact&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luasampaio&layout=compact&theme=dracula)
 
 
 
 
 ## GitHub Stats
 
-![Luciana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luasampaio&count_private=true&show_icons=true&theme=radical)
+![Luciana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luasampaio&count_private=true&show_icons=true&theme=dracula)
 
 
 
