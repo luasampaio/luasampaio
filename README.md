@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Luciana Sampaio Mayer
 
-I'm a data engineer
+I'm a data engineer 
 
 I am an Systems analysis and development, enthusiast for programming and learning, always seeking more and more knowledge and practice 🚀
 
@@ -23,7 +23,6 @@ I am an Systems analysis and development, enthusiast for programming and learnin
 
 ## Most Used Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luasampaio&layout=compact&theme=radical)
-
 
 
 
