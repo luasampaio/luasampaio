@@ -46,13 +46,26 @@ I love solving complex problems, learning continuously, and transforming ideas i
 
 ---
 
+## ✍️ Publications  
+
+I also write about **Data Engineering**, **PySpark**, and **Cloud Technologies** on [Medium](https://medium.com/@luciana.sampaio84):  
+
+📘 Recent topics include:  
+- PySpark UDFs and performance optimization  
+- Working with broadcast variables in distributed environments  
+- Building efficient data pipelines on Databricks  
+
+👉 Read my articles here: [**medium.com/@luciana.sampaio84**](https://medium.com/@luciana.sampaio84)
+
+---
+
 ## 🌍 Let's Connect  
 
 📫 Feel free to reach out — I love exchanging ideas about data, analytics, and technology!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-sampaio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luasampaio)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@luasampaio)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@luciana.sampaio84)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luasampaio/)
 
 ---
