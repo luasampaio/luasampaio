@@ -1,48 +1,60 @@
-# 👋 Hi there, I'm Luciana Sampaio Mayer
+# 👋 Hi, I'm Luciana Sampaio Mayer  
 
-💾 **Data Engineer** with a strong interest in **data architecture**, **ETL pipelines**, and **cloud technologies**.  
-I'm passionate about transforming data into meaningful insights and constantly learning to enhance my technical skills 🚀  
+💾 **Data Engineer** passionate about turning data into meaningful insights and building scalable solutions in the cloud.  
+I love solving complex problems, learning continuously, and transforming ideas into data-driven realities 🚀  
 
 ---
 
-## 🧠 Skills
+## 🧠 About Me
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- 🎓 Background in **Systems Analysis and Development**  
+- 🧰 Experienced with **data pipelines**, **ETL/ELT**, and **analytics architecture**  
+- ☁️ Working with tools like **Azure**, **Databricks**, and **Apache Spark**  
+- 🐍 Passionate about **Python**, **SQL**, and automation  
+- 🎯 I believe data has the power to tell stories, improve decisions, and spark innovation  
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages & Tools:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 Most Used Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luasampaio&layout=compact&theme=radical)
+## 📊 GitHub Insights  
+
+![Luciana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luasampaio&count_private=true&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luasampaio&layout=compact&theme=tokyonight)
 
 ---
 
-## ⚙️ GitHub Stats
-![Luciana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luasampaio&count_private=true&show_icons=true&theme=radical)
+## 🚀 Featured Projects  
+
+| Project | Description | Stack |
+|----------|--------------|--------|
+| [**ETL Automation Pipeline**](#) | Automated ETL workflow using Databricks and Airflow to process large-scale data efficiently. | Python, Airflow, Databricks |
+| [**Sales Analytics Dashboard**](#) | Power BI dashboard for real-time sales insights and business decisions. | SQL, Power BI |
+| [**Azure Data Lake Project**](#) | Designed a scalable data lake architecture for analytics and reporting. | Azure, Spark, Python |
 
 ---
 
-## 🌟 Let's Connect!
+## 🌍 Let's Connect  
 
-Wanna chat, share ideas, or just take a friendly peek at what I’m working on? Don’t be shy!  
-Here are my favorite places to connect 👇  
+📫 Feel free to reach out — I love exchanging ideas about data, analytics, and technology!  
 
-- 🌐 [**LinkedIn**](https://www.linkedin.com/in/luciana-sampaio/)  
-  *Where I look super professional (most of the time 😉)*  
-
-- 🐙 [**GitHub**](https://github.com/luasampaio)  
-  *My little coding corner — explore at your own risk (there might be a few bugs 😅)*  
-
-- 📸 [**Instagram**](https://www.instagram.com/luasampaio/)  
-  *Less code, more coffee and travel pics ☕✨*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-sampaio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luasampaio)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@luasampaio)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luasampaio/)
 
 ---
 
-✨ *“Transforming data into knowledge, and knowledge into action.”*  
+✨ *“Good data tells a story — great data drives change.”*
