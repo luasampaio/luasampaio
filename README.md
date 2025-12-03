@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Luciana Sampaio Mayer  
 
-💾 **Data Engineer** passionate about turning data into meaningful insights and building scalable solutions in the cloud.  
-I love solving complex problems, learning continuously, and transforming ideas into data-driven realities 🚀  
+💾 **Data Engineer** focused on building reliable data platforms, turning raw data into meaningful insights, and designing scalable solutions in the cloud.  
+I enjoy solving complex problems, learning continuously, and transforming ideas into data-driven products 🚀  
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Background in **Systems Analysis and Development**  
-- 🧰 Experienced with **data pipelines**, **ETL/ELT**, and **analytics architecture**  
-- ☁️ Working with tools like **Azure**, **Databricks**, and **Apache Spark**  
-- 🐍 Passionate about **Python**, **SQL**, and automation  
-- 🎯 I believe data has the power to tell stories, improve decisions, and spark innovation  
+- 🎓 Degree in **Systems Analysis and Development**  
+- 🧰 Experience designing and implementing **data pipelines**, **ETL/ELT workflows**, and **analytics architectures**  
+- ☁️ Hands-on with **Azure**, **Databricks**, and **Apache Spark** in production environments  
+- 🐍 Passionate about **Python**, **SQL**, and end-to-end **automation**  
+- 🔐 Interested in **data governance**, **quality**, and **best practices** for scalable data platforms  
+- 🎯 I believe data should not only describe the past, but also support decisions and drive innovation  
 
 ---
 
@@ -27,33 +28,28 @@ I love solving complex problems, learning continuously, and transforming ideas i
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-## 📊 GitHub Insights  
-
-![Luciana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luasampaio&count_private=true&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luasampaio&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🚀 Featured Projects  
 
 | Project | Description | Stack |
-|----------|--------------|--------|
-| [**ETL Automation Pipeline**](#) | Automated ETL workflow using Databricks and Airflow to process large-scale data efficiently. | Python, Airflow, Databricks |
-| [**Sales Analytics Dashboard**](#) | Power BI dashboard for real-time sales insights and business decisions. | SQL, Power BI |
-| [**Azure Data Lake Project**](#) | Designed a scalable data lake architecture for analytics and reporting. | Azure, Spark, Python |
+|--------|-------------|-------|
+| [**ETL Automation Pipeline**](#) | End-to-end automated ETL/ELT workflow on Databricks and Airflow, orchestrating large-scale batch jobs with monitoring and logging for reliability. | Python, Airflow, Databricks, Spark |
+| [**Sales Analytics Dashboard**](#) | Interactive analytics solution providing real-time sales KPIs, trends, and drill-downs for business stakeholders. | SQL, Power BI , Python, PySpark| 
+| [**Azure Data Lake Project**](#) | Designed a scalable data lake architecture for analytics and reporting, with structured zones and standardized ingestion patterns. | Azure, Spark, Python |
 
 ---
 
 ## ✍️ Publications  
 
-I also write about **Data Engineering**, **PySpark**, and **Cloud Technologies** on [Medium](https://medium.com/@luciana.sampaio84):  
+I share content about **Data Engineering**, **PySpark**, and **Cloud Technologies** on [Medium](https://medium.com/@luciana.sampaio84):  
 
 📘 Recent topics include:  
 - PySpark UDFs and performance optimization  
 - Working with broadcast variables in distributed environments  
-- Building efficient data pipelines on Databricks  
+- Building efficient, maintainable data pipelines on Databricks  
 
 👉 Read my articles here: [**medium.com/@luciana.sampaio84**](https://medium.com/@luciana.sampaio84)
 
@@ -61,7 +57,7 @@ I also write about **Data Engineering**, **PySpark**, and **Cloud Technologies**
 
 ## 🌍 Let's Connect  
 
-📫 Feel free to reach out — I love exchanging ideas about data, analytics, and technology!  
+📫 I’m always happy to exchange ideas about data, analytics, and technology:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-sampaio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luasampaio)
