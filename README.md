@@ -47,9 +47,9 @@ I enjoy solving complex problems, learning continuously, and transforming ideas 
 I share content about **Data Engineering**, **PySpark**, and **Cloud Technologies** on [Medium](https://medium.com/@luciana.sampaio84):  
 
 📘 Recent topics include:  
-- PySpark UDFs and performance optimization  
-- Working with broadcast variables in distributed environments  
-- Building efficient, maintainable data pipelines on Databricks  
+- Desvendando a Camada “Worked”: O Elo Perdido na Arquitetura de Dados Medallion. 
+- O Fim da Era do Data Lake? Por que o Data Mesh é o Futuro da Engenharia de Dados.
+- Engenharia de Dados com Mentalidade FinOps: Menos Custo, Mais Inteligência. 
 
 👉 Read my articles here: [**medium.com/@luciana.sampaio84**](https://medium.com/@luciana.sampaio84)
 
