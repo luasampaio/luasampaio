@@ -52,8 +52,13 @@ I share content about **Data Engineering**, **PySpark**, and **Cloud Technologie
 - Engenharia de Dados com Mentalidade FinOps: Menos Custo, Mais Inteligência. 
 
 👉 Read my articles here: [**medium.com/@luciana.sampaio84**](https://medium.com/@luciana.sampaio84)
-
 ---
+
+## 
+🔥 Canal Youtube: [https://www.youtube.com/@lucianasampaio.engdados]
+
+- Desvendando a Camada “Worked: [https://www.youtube.com/watch?v=p6avauG4e3U]
+
 
 ## 🌍 Let's Connect  
 
