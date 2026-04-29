@@ -54,12 +54,6 @@ I share content about **Data Engineering**, **PySpark**, and **Cloud Technologie
 👉 Read my articles here: [**medium.com/@luciana.sampaio84**](https://medium.com/@luciana.sampaio84)
 ---
 
-## 🔥 Dados em Chamas
-
-- Canal Youtube: [https://www.youtube.com/@lucianasampaio.engdados]
-
-- Desvendando a Camada “Worked: [https://www.youtube.com/watch?v=p6avauG4e3U]
-
 
 ## 🌍 Let's Connect  
 
